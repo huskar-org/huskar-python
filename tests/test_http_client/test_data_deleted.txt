@@ -1,0 +1,3 @@
+{"body": {"config": {"arch.test": {"overall": {"test_config": {"value": null}}}}}, "message": "delete"}
+{"body": {"service": {"arch.test": {"alpha-stable": {"192.168.1.1_17400": {"value": null}}}}}, "message": "delete"}
+{"body": {}, "message": "ping"}
