@@ -1,5 +1,8 @@
 # Huskar SDK
 
+[![Build Status](https://travis-ci.com/huskar-org/huskar-python.svg?branch=master)](https://travis-ci.com/huskar-org/huskar-python)
+[![codecov](https://codecov.io/gh/huskar-org/huskar-python/branch/master/graph/badge.svg)](https://codecov.io/gh/huskar-org/huskar-python)
+
 - [Documentation](https://github.com/huskar-org/huskar-python)
 
 - [Toturial](https://github.com/huskar-org/huskar-python)

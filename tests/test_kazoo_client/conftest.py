@@ -117,7 +117,7 @@ def pool_map():
 
         pool = [C(target=run(func, l), args=(i,)) for i, (l, r) in ps]
         [c.start() for c in pool]
-        [c.join() for c in pool]
+        [c.join(timeout=3) for c in pool]
         return [r.recv() for _, (l, r) in ps]
     return pool_map
 
