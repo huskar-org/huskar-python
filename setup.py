@@ -62,6 +62,7 @@ tests_require = ["pytest==3.2.2",
                  "pytest-cov==2.5.1",
                  "pytest-xdist==1.20.0",
                  "pytest-mock==1.6.2",
+                 "pytest-forked==0.2",
                  "mock==2.0.0"]
 
 setup(
